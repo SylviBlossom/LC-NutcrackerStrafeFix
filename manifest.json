@@ -1,8 +1,8 @@
 {
-    "name": "TemplateMod",
+    "name": "NutcrackerStrafeFix",
     "version_number": "1.0.0",
-    "website_url": "",
-    "description": "A mod for Lethal Company",
+    "website_url": "https://github.com/SylviBlossom/LC-NutcrackerStrafeFix",
+    "description": "Fixes Nutcracker aim strafing not appearing on clients",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100"
     ]
